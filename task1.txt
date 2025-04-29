@@ -1,0 +1,3 @@
+Task 1 completed: Data preprocessed and features assembled.
+Sample row:
+Row(features=DenseVector([0.0, 9.0, 82.71, 828.99, 1.0, 0.0, 0.0, 1.0]), label=0.0)
